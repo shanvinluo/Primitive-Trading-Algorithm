@@ -8,6 +8,8 @@ Nowadays, stock trading using bots and python is a very hot topic, since many th
 This brings up the question: how accurately can machine learning predict the closing price of a stock(dependent variable), based on the last x prices (independent variable), by measuring the impact of reduced interval of training on the percent error of our output.
 
 __**What I learned**__
+
+
 • How to retrieve stock information using Yahoo’s yfinance and how to prepare the data using Pandas and Sci-kit Learn
 
 • How to implement a LSTM Neural Network from the Keras library and achieve a high accuracy by optimizing it's parameters
